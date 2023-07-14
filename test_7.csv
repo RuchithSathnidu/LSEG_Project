@@ -1,0 +1,11 @@
+order_id,order_type,side,quantity,price
+aa13,,1,100,55.00
+aa14,rose,3,100,65.00
+aa15,rose,2,300,-100.00
+aa16,rose,1,101,2.00
+aa17,rose,1,9,2.00
+aa18,rose,1,10000,2.00
+aa19,rose,,100,65.00
+aa20,rose,1,,65.00
+aa21,rose,1,100,,
+,rose,1,100,55.00
